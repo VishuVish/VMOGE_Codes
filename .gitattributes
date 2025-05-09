@@ -5,3 +5,4 @@
 *.lvclass linguist-language=LabVIEW
 *.vit linguist-language=LabVIEW
 *.vim linguist-language=LabVIEW
+*.py linguist-language=Python
